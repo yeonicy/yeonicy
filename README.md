@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yeonicy/yeonicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm Chaeyeon 👋
+## Hello, I'm Chaeyeon 👋🔭
 
 I'm a Computer Science and Engineering student interested in AI and software development.  
 I’m passionate about building applications that solve real-world problems using technology.
 
-## Skills:
+## ⚡ Skills:
 - **Languages**: Java, Python, HTML, SQL
 - **Technologies**: Spring
 - **Tools**: Git
 
-- ## Contact:
+- ## 📫 Contact:
 - Email: yeonicy03@gmail.com
