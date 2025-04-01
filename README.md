@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hello, I'm Chaeyeon 👋
+
+I'm a Computer Science and Engineering student interested in AI and software development.  
+I’m passionate about building applications that solve real-world problems using technology.
+
+## Skills:
+- **Languages**: Java, Python, HTML, SQL
+- **Technologies**: Spring
+- **Tools**: Git
+
+- ## Contact:
+- Email: yeonicy03@gmail.com
